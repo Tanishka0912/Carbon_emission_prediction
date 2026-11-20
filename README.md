@@ -1,4 +1,4 @@
-# Carbon Footprint Prediction
+# Carbon Footprint Prediction- Linear Regression
 
 Predicting an individual's **carbon emission** from lifestyle, transport, energy, consumption and waste habits, using Linear Regression and regularized regression (Ridge, Lasso, ElasticNet).
 
